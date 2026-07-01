@@ -429,6 +429,7 @@ p { margin: 0; }
   margin-bottom: 18px;
 }
 .footer-col a {
+  padding: 0.6rem;
   display: block;
   font-size: 14.5px;
   margin-bottom: 12px;
