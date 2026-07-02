@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://izzatstroy.uz/sitemap.xml
+Sitemap: https://alistroy.uz/sitemap.xml
